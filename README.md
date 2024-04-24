@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi there! I'm [Your Name]</h1>
+  <h1>👋 Hi there! I'm Celso</h1>
   <p>A passionate front-end development student based in Bloemfontein, South Africa 🇿🇦.</p>
   <p>At 21, I'm diving deep into the world of web development and Lua programming, aiming to create impactful digital experiences. Currently studying at CodeSpace.</p>
 </div>
